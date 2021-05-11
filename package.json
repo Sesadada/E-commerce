@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sesadada/E-commerce.git"
+  },
+  "author": "Serena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sesadada/E-commerce/issues"
+  },
+  "homepage": "https://github.com/Sesadada/E-commerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
